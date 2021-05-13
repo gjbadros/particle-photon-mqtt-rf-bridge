@@ -3,7 +3,7 @@ Author: Greg J. Badros <badros@gmail.com>
 
 MIT LICENSE
 
-See https://medium.com/@badros/ceiling-projection-of-blood-glucose-readings
+See https://www.gluroo.com/blog/ceiling_bgl/index.html
 
 for details.
 
